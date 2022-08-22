@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
         //        getSignatureBitmap() - A signature bitmap with a white background.
         //        getTransparentSignatureBitmap() - A signature bitmap with a transparent background.
         //        getSignatureSvg() - A signature Scalable Vector Graphics document.
-        paintView.setMinWidth(2.5f);
+        paintView.setMinWidth(10f);
         paintView.setOnSignedListener(new SignaturePad.OnSignedListener() {
             @Override
             public void onStartSigning() {

@@ -1,7 +1,7 @@
 package com.whosmyqueen.signpad.utils;
 
 /**
- * Created by gcacace on 28/02/14.
+ * Created by whosmyqueen on 28/02/14.
  */
 public class ControlTimedPoints {
 
